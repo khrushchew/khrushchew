@@ -1,14 +1,28 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200"/>
-</div>
-
-<div id="badges" align="center">
+<div id="badges" align="left">
+  <h3>Use this if you want to look at me 🤗</h3>
   <a href="https://www.instagram.com/_khrushchew_/">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=Instagram&logoColor=black" alt="Instagram Badge"/>
-  </a>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+  </a><br>
+  <h3>Use this if you just want to write to me ☺️</h3>
+  <a href="https://t.me/khrushchew">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a><br>
+  <h3>Use this if you want to make an offer 😎</h3>
+  <a href="popovn2268@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a><br>
+  <h3>This can also be used to contact me 🙃</h3>
   <a href="https://vk.com/khrushchew">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
-  </a>
+  </a><br>
+  <h3>And finally, here we can play games and have fun 🥳</h3>
+  <a href="https://discordapp.com/users/569149191784497154/">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a><br>
+</div>
+
+<div id="header" align="right">
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="400"/>
 </div>
 
 <div id="counter" align="center">
