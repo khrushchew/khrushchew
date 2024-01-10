@@ -1,4 +1,12 @@
-<div id="badges" align="left">
+<div id="counter" align="center">
+  <h1>
+    Hello, everybody
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="" width="30px"/>
+  </h1>
+</div>
+
+
+<div id="badges">
   <h3>Use this if you want to look at me 🤗</h3>
   <a href="https://www.instagram.com/_khrushchew_/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
@@ -21,17 +29,12 @@
   </a><br>
 </div>
 
-<div id="header" align="right">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="400"/>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="400"/><br>
+  <img src="https://komarev.com/ghpvc/?username=khrushchew&style=flat-square&color=blue" alt="" width="150"/>
 </div>
 
-<div id="counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=khrushchew&style=flat-square&color=blue" alt="" width="120"/>
-  <h1>
-    Hello, everybody
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="" width="30px"/>
-  </h1>
-</div>
 <!--
 **khrushchew/khrushchew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
