@@ -35,6 +35,32 @@
   <img src="https://komarev.com/ghpvc/?username=khrushchew&style=flat-square&color=blue" alt="" width="150"/>
 </div>
 
+---
+
+### :technologist: About Me :
+I am a Python Backend Developer from Belarus.
+
+I work as a Python Developer, building websites and apps. I handle both the visible parts that users interact with (frontend) and the behind-the-scenes logic (backend). It's all about making sure everything runs smoothly and looks good!
+
+- :open_book: I love manual testing.
+
+- :weight_lifting: In my free time, I work hard in the gym.
+
+- :punch: I really want to get into a big IT company
+
+---
+
+### :hammer_and_wrench: Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 <!--
 **khrushchew/khrushchew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
