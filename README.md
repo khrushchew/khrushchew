@@ -5,8 +5,11 @@
   </h1>
 </div>
 
-
 <div id="badges">
+  <h3>Use this if you want to check my resume 🥸</h3>
+  <a href="https://www.instagram.com/_khrushchew_/">
+    <img src="https://drive.google.com/file/d/1cymiII40fGUidVobdRcd-SfI_amCTYr6/view?usp=sharing" alt="Google Badge"/>
+  </a><br>
   <h3>Use this if you want to look at me 🤗</h3>
   <a href="https://www.instagram.com/_khrushchew_/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
