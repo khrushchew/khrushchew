@@ -59,7 +59,7 @@ I have been working as a backend developer for more than one year, and during th
 - Strong understanding of how **operating systems** work (thanks to university studies and personal interest).
 - Hands-on experience with **synchronous development**, though well-versed in asynchronous programming principles.
 
-## And a lot more...
+**And a lot more...**
 
 ## 🎯 Goals:
 I aim to join a **large IT company** to apply and expand my skills in building scalable and efficient backend systems.
