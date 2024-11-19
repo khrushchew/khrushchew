@@ -72,7 +72,8 @@ I aim to join a **large IT company** to apply and expand my skills in building s
 - 🥊 I am determined and passionate about self-improvement and career growth.
 
 ---
-**PS:** I hate algorithms — I’m a Pythonist! Give me my GIL brick and a powerful server 😄
+
+**PS:** I hate algorithms — I’m a Pythonist! Give me my GIL brick and a powerful server 😠
 
 Feel free to reach out to me in a convenient way. I look forward to connecting!
 
