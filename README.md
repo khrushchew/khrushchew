@@ -38,20 +38,40 @@
   <img src="https://komarev.com/ghpvc/?username=khrushchew&style=flat-square&color=blue" alt="" width="150"/>
 </div>
 
+# 👨‍💻 About Me
+
+I am a **Middle Python Backend Developer** from Russia.  
+
+I have been working as a backend developer for more than one year, and during this time, I have managed to accumulate a substantial stack of knowledge.
+
+## 🛠️ My Expertise:
+- **Database Design**: Creating and optimizing PostgreSQL databases.  
+- **API Development**: Writing APIs for native mobile applications and beyond using **Django REST Framework (DRF)**.  
+- **Documentation**: Writing and formatting Swagger documentation.  
+- **Web Development**: Developing websites and administrative panels for companies.  
+- **Testing**: Mostly manual testing, but striving to improve in automated testing.  
+- **Cloud Integration**: Worked with **Yandex Cloud's S3 storage**.  
+- **Authentication**: Implemented token-based authentication systems.  
+- **Architecture Documentation**: Created **Architectural Decision Records (ADR)** to stay organized.  
+
+## 🚀 Technical Skills:
+- Proficient in **Python** and **Django REST Framework (DRF)**.
+- Strong understanding of how **operating systems** work (thanks to university studies and personal interest).
+- Hands-on experience with **synchronous development**, though well-versed in asynchronous programming principles.
+
+## 🎯 Goals:
+I aim to join a **large IT company** to apply and expand my skills in building scalable and efficient backend systems.
+
 ---
 
-### :technologist: About Me :
-I am a Python Backend Developer from Belarus.
-
-I work as a Python Developer, building websites and apps. I handle both the visible parts that users interact with (frontend) and the behind-the-scenes logic (backend). It's all about making sure everything runs smoothly and looks good!
-
-- :open_book: I love manual testing.
-
-- :weight_lifting: In my free time, I work hard in the gym.
-
-- :punch: I really want to get into a big IT company
+## 🌱 Outside of Work:
+- 📖 I enjoy **manual testing** and constantly look for ways to improve my processes.
+- 💪 In my free time, I work hard in the **gym** to stay fit and motivated.  
+- 🥊 I am determined and passionate about self-improvement and career growth.
 
 ---
+
+Feel free to reach out to me in a convenient way. I look forward to connecting!
 
 ### :hammer_and_wrench: Tools :
 <div>
