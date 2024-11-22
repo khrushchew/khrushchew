@@ -73,7 +73,8 @@ I aim to join a **large IT company** to apply and expand my skills in building s
 
 ---
 
-**PS:** I hate algorithms — I’m a Pythonist! Give me my GIL brick and a powerful server 😠 I also know a little bit about machine learning, but limited only to theoretical knowledge.
+**PS:** I hate algorithms — I’m a Pythonist! Give me my GIL brick and a powerful server 😠 
+I also know a little bit about machine learning, but limited only to theoretical knowledge.
 
 Feel free to reach out to me in a convenient way. I look forward to connecting!
 
