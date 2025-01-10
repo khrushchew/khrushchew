@@ -7,7 +7,7 @@
 
 <div id="badges">
   <h3>Use this if you want to check my resume :point_down:</h3>
-  <a href="https://drive.google.com/file/d/1-IfoimnM7mEAaoiyGFYEbUs35Su8v3yg/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1tiUnLx6RaYjMAfW08GN6ML4wYGBeAT-_/view?usp=sharing">
     <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
   </a><br>
   <h3>Use this if you want to look at me 🤗</h3>
